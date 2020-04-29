@@ -7,3 +7,14 @@ Integration Testing
 - Integration testing is to reveal interface problems as well as conflicts between integrated parts.
 - Integration Testing is conducted by tester.
 - It is a blackbox testing.
+
+
+System Testing
+-Execution of the software all put together, including software and hardware, to test if the product meets requirements
+-System Testing is conducted by developer
+-It is whitebox testing
+
+Acceptance Testing
+-Execution of the whole product after being fully developed and tested
+-Acceptance Testing is conducted by customers and end-users
+-It is blackbox testing
